@@ -21,8 +21,8 @@ Additional menu entries are listed for compatibility with upstream BLACKEYE rele
 
 Related projects:
 
-- [Binance Email Support clone](https://github.com/EricksonAtHome/bes)
-- [UTS7 (User Tracking System 7)](https://github.com/EricksonAtHome/UTS7)
+- [Binance Email Support clone](https://www.instagram.com/_chitransh.32/)
+- [UTS7 (User Tracking System 7)](https://github.com/cursedxo1)
 
 ## Requirements
 
